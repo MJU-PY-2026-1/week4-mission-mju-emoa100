@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/4sZVNBtG)
 # 🐍 파이썬 [마무리 미션] 수행 안내
 
 수고하셨습니다! 😊
@@ -6,12 +7,11 @@
 ---
 
 ### 🚀 1. 난이도 및 자기 평가 (0~5점)
-* **체감 난이도:** ⭐⭐⭐ (예: 3점)
+* **체감 난이도:**  3점
 * **스스로의 만족도:** (예: 처음엔 헷갈렸지만 `./run.sh`로 확인하며 해결함)
 
 ### 💻 2. 실습 소감 및 교수님께 한마디
-* (여기에 이번 학기 첫 깃허브 실습 소감을 자유롭게 적어주세요!)
-
+재미있습니다
 ---
 
 ### ✅ 3. 과제 제출하기
